@@ -33,7 +33,7 @@ public class Home_Controller {
 	{
 		System.out.println("this is home page");
 		model.addAttribute("title","this is the home page of Smart Contact manager");
-		System.out.println("after first commit------------>");
+		System.out.println("after first commit------------>@@@@@@");
 		
 		return "home";
 	}
